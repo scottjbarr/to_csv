@@ -57,5 +57,6 @@ Install the plugin in your Rails project like so...
 This code for this plugin was written by Bryan Helmkamp. The original post
 can be found at http://www.brynary.com/2007/4/28/export-activerecords-to-csv
 
-Bryan gave permission for me to package it up as a plugin and make it 
-available on github. Thanks for the handy code Bryan :)
+Bryan informed me that there is a later version of this code at 
+http://www.mobilecommons.com/developers/open-source/exportable/ but it did not
+work for me. I'll try to see what the problem is when I have a chance.
