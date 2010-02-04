@@ -50,7 +50,7 @@ Multiple output formats:
 
 Install the plugin in your Rails project like so...
 
-  $ script/plugin install http://github.com/scottbarr/to_csv
+  $ script/plugin install git://github.com/scottbarr/to_csv.git
 
 == Original Author
 
